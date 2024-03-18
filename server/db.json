@@ -1,0 +1,86 @@
+{
+  "contacts": [
+    {
+      "id": "A@123",
+      "name": "Dhumal",
+      "photo": "https://cliply.co/wp-content/uploads/2020/09/442008571_ARTIST_AVATAR_3D_400px.gif",
+      "mobileNo": "5544114488",
+      "emailId": "tushar11@gmail.com",
+      "title": "Software Developer",
+      "company": "SMS Magic",
+      "group": "4"
+    },
+    {
+      "id": "A@124",
+      "name": "Vishal",
+      "photo": "https://cdn3d.iconscout.com/3d/premium/thumb/man-9251884-7590876.png",
+      "mobileNo": 8812222244,
+      "emailId": "shubhamhhh11@gmail.com",
+      "title": "Software Traniee",
+      "company": "HCL",
+      "group": 2
+    },
+    {
+      "id": "A@126",
+      "name": "Atharva",
+      "photo": "data:image/jpeg;base64,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",
+      "mobileNo": 2020202020,
+      "emailId": "atharvah555@gmail.com",
+      "title": "Software Traniee",
+      "company": "SMS Magic",
+      "group": 2
+    },
+    {
+      "id": "89fd",
+      "name": "Abhishek",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3JD3gBuPteghZRPZgXu7b7C8ED5B83aaif4msqUgHeY0CzvuwI1u9B2xEdC73Vj4ZG64&usqp=CAU",
+      "mobileNo": "88877441155",
+      "emailId": "athavahhh11@gmail.com",
+      "title": "Software",
+      "company": "Wipro",
+      "group": "5"
+    },
+    {
+      "id": "0967",
+      "name": "Tushar",
+      "photo": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/8cf5cafc371a0c6ae5af29fa7f148a93-1669602142/Avatar564/create-animated-discord-profile-pic-avatar-gif.gif",
+      "mobileNo": "8877994455",
+      "emailId": "tushar11@gmail.com",
+      "title": "Developer",
+      "company": "TestYantra",
+      "group": "5"
+    },
+    {
+      "id": "8cf7",
+      "name": "Kiran",
+      "photo": "https://cliply.co/wp-content/uploads/2020/09/442008571_ARTIST_AVATAR_3D_400px.gif",
+      "mobileNo": "8844112244",
+      "emailId": "athavahhh11@gmail.com",
+      "title": "ss",
+      "company": "SMS Magic",
+      "group": "Social"
+    }
+  ],
+  "groups": [
+    {
+      "id": 1,
+      "name": "Family"
+    },
+    {
+      "id": 2,
+      "name": "Friend"
+    },
+    {
+      "id": 3,
+      "name": "Colleague"
+    },
+    {
+      "id": 4,
+      "name": "Social"
+    },
+    {
+      "id": 5,
+      "name": "Work"
+    }
+  ]
+}

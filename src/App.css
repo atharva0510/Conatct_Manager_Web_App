@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&family=Sedgwick+Ave+Display&display=swap');
+
+body{
+    font-family: 'Salsa', cursive !important;
+    background-color: blanchedalmond !important;
+}
+.img-size{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.img-size1{
+    height: 200px;
+    width: 200px;
+    border-radius: 20px;
+    border: 2px solid   ;
+}
